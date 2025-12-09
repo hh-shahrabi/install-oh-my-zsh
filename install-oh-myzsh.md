@@ -15,9 +15,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## set theme and plugin on oh my zsh
 ```bash
-vim ~/.zshrc
-
-ZSH_THEME="fino-time"
 
 ## Zsh Must-Have Plugin
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
@@ -25,6 +22,16 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 
 apt install chroma ## enable ccat command 
+
+
+
+vim ~/.zshrc
+
+## find ZSH_THEME= and set theme 
+
+ZSH_THEME="fino-time"
+
+```
 
 ## set plugin 
 

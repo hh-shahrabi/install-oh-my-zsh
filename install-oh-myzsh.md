@@ -31,12 +31,7 @@ vim ~/.zshrc
 
 ZSH_THEME="fino-time"
 
-```
-
 ## set plugin 
-
-```bash
-vim ~./zshrc
 
 ## find plugins=(git) and add plugins
 

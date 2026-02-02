@@ -39,5 +39,5 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting command-not-found color
 ```
 
 ```bash
-sourcr ~/.zshrc
+source ~/.zshrc
 ```

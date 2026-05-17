@@ -1,3 +1,5 @@
-# install-oh-my-zsh
 
-### https://github.com/ohmyzsh/ohmyzsh
+
+
+# السلام علیک یا امیرالمومنین 
+# السلام علیک یا صاحب الزمان 
